@@ -108,7 +108,7 @@
             // 
             // Login_btn
             // 
-            this.Login_btn.Location = new System.Drawing.Point(34, 211);
+            this.Login_btn.Location = new System.Drawing.Point(34, 210);
             this.Login_btn.Name = "Login_btn";
             this.Login_btn.Size = new System.Drawing.Size(127, 38);
             this.Login_btn.TabIndex = 6;
@@ -118,7 +118,7 @@
             // 
             // Register_btn
             // 
-            this.Register_btn.Location = new System.Drawing.Point(332, 210);
+            this.Register_btn.Location = new System.Drawing.Point(355, 210);
             this.Register_btn.Name = "Register_btn";
             this.Register_btn.Size = new System.Drawing.Size(125, 39);
             this.Register_btn.TabIndex = 7;
@@ -133,9 +133,9 @@
             this.label4.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label4.Location = new System.Drawing.Point(189, 211);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(120, 23);
+            this.label4.Size = new System.Drawing.Size(137, 23);
             this.label4.TabIndex = 8;
-            this.label4.Text = "dont have Account? ";
+            this.label4.Text = "Don\'t Have An Account? ";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label5
@@ -146,7 +146,7 @@
             this.label5.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label5.Location = new System.Drawing.Point(189, 234);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(120, 23);
+            this.label5.Size = new System.Drawing.Size(137, 23);
             this.label5.TabIndex = 9;
             this.label5.Text = "Click here -->";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
