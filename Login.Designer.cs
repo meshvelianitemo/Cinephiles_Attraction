@@ -114,6 +114,7 @@
             this.Login_btn.TabIndex = 6;
             this.Login_btn.Text = "Login";
             this.Login_btn.UseVisualStyleBackColor = true;
+            this.Login_btn.Click += new System.EventHandler(this.Login_btn_Click);
             // 
             // Register_btn
             // 
@@ -167,6 +168,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Login";
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
